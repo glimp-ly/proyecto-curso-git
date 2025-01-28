@@ -1,0 +1,1 @@
+Este es un archivo creado para usar la herramienta que te da vsc para git
