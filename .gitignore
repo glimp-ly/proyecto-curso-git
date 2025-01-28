@@ -1,0 +1,6 @@
+.env
+node_modules
+*.jpg todas las imagnes seran ignoradas y no seran versionadas
+*.png
+*.mp4 todas las videos seran ignoradas y no seran versionadas
+*.mp3
