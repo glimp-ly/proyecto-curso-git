@@ -1,1 +1,3 @@
-Hola mundo, primer commit completo y funcional, totalmente
+Hola mundo, primer commit completo y funcional, totalmente funcional
+
+esta es otra linea pero mdoficada
