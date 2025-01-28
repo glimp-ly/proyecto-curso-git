@@ -1,1 +1,1 @@
-Este archivo e ejemplo de uso de git y github
+Este archivo e ejemplo de uso de git y github del curso git esde 0
